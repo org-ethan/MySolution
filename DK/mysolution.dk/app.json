@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "3ceaf1bd-e0d2-4f9a-93ad-7c255ba6d8cd",
+      "name": "mysolution.w1",
+      "publisher": "Yisheng",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
